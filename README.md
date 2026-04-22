@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%THANH+DUY%+%F0%9F%91%8B;NLP+%2F+LLM+Engineer;Building+things+that+understand+language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+THANH+DUY+%F0%9F%91%8B;NLP+%2F+LLM+Engineer;Building+things+that+understand+language)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=pluto0203&style=flat-square&color=6EE7B7&label=profile+views" alt="Profile Views"/>
 
@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎯 **Role** — AI Engineer, focused on NLP / LLM
+- 🎯 **Role** — AI Engineer
 - 📍 **Location** — Ho Chi Minh City, Vietnam 🇻🇳
 - 🔬 **Interests** — Retrieval-Augmented Generation · LLM Fine-tuning · AI-powered APIs
 - 🛠️ **Currently** — Building production-ready LLM applications
@@ -91,21 +91,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen Vo Thanh Duy&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
