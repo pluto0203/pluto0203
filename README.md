@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+THANH+DUY+%F0%9F%91%8B;NLP+%2F+LLM+Engineer;Building+things+that+understand+language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+THANH+DUY+%F0%9F%91%8B;AI+Engineer;Building+AI+with+me!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=pluto0203&style=flat-square&color=6EE7B7&label=profile+views" alt="Profile Views"/>
 
