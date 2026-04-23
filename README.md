@@ -77,7 +77,7 @@
   <tr>
     <td width="50%">
       <h3>📄 Computer Vision Research</h3>
-      <p>Published paper on [YOUR TOPIC]. Implemented with PyTorch and trained on [DATASET]. Achieves state-of-the-art on [BENCHMARK].</p>
+      <p>Published paper on Computer Vision. Implemented with PyTorch and trained on [DATASET]. Achieves state-of-the-art on [BENCHMARK].</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/>
         <img src="https://img.shields.io/badge/Research-6EE7B7?style=flat-square"/>
