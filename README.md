@@ -101,7 +101,7 @@
 
 I occasionally write about what I learn in NLP/LLM engineering. Find me on:
 - 💼 [LinkedIn](https://www.linkedin.com/in/duynvt0203/)
-
+- [Viblo](https://viblo.asia/u/PlutoHarmony)
 ---
 
 ## 📬 Get In Touch
