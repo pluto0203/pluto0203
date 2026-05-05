@@ -104,7 +104,7 @@ I occasionally write about what I learn in NLP/LLM engineering. Find me on:
 - [Viblo](https://viblo.asia/u/PlutoHarmony)
 ---
 
-## 📬 Get In Touch
+## 📬 Get In Touch with me: 
 
 <div align="center">
 
