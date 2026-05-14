@@ -15,7 +15,7 @@
 - 📍 **Location** — Ho Chi Minh City, Vietnam 🇻🇳
 - 🔬 **Interests** — Retrieval-Augmented Generation · LLM Fine-tuning · AI-powered APIs
 - 🛠️ **Currently** — Building production-ready LLM applications
-- 💬 **Open to** — Full-time · Collaboration · Side projects
+- 💬 **Open to** — Full-time · Collaboration · Side projects · Remote Oppoturnity
 
 ---
 
